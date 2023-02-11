@@ -8,3 +8,4 @@ Python 3<br>
 Pandas<br>
 NumPy<br>
 Scikit-learn<br>
+joblib<br>
