@@ -4,8 +4,3 @@ This repository contains code for a project that uses machine learning to predic
 # Dependencies<br>
 The following dependencies are required to run this project:<br>
 
-Python 3<br>
-Pandas<br>
-NumPy<br>
-Scikit-learn<br>
-joblib<br>
