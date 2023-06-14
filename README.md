@@ -9,3 +9,20 @@ Pandas<br>
 NumPy<br>
 Scikit-learn<br>
 joblib<br>
+
+# Gold Price Prediction
+ given some information about dataset like:<br>
+ 
+ 1. Date<br>
+ 2. SPX<br>
+ 3. GLD<br>
+ 4. USO<br>
+ 5. SLV<br>
+ 6. EUR/USD<br>
+
+ # How  did I do?
+
+<h3>The dataset I am using for the Gold Price Prediction task is downloaded from Kaggle. Now let’s start with this task by importing the necessary Python libraries and dataset:<br></h3>
+import numpy as np<br>
+import pandas as pd<br>
+import seaborn as sns<br>
