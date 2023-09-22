@@ -38,6 +38,21 @@ import seaborn as sns<br>
 
 <h2>The dataset is ready to use because there are no null values in the data.</h2>
 
+# Gold Price Prediction Model
+<h2>Now let’s move to the task of training a machine learning model for predicting the gold price. Here, I will first start by splitting the data into training and test sets:</h2>
+
+![image](https://github.com/Sanketarali/Gold-Price-Prediction/assets/110754364/1d89b313-f261-475d-9812-c2725ad37c2a)
+![image](https://github.com/Sanketarali/Gold-Price-Prediction/assets/110754364/4dcdb006-036c-43e1-b12e-6a03cf65cd5b)
+
+<h2>Here I have used three models that is linear reg , random forest and gradient boosting regressor</h2>
+
+![image](https://github.com/Sanketarali/Gold-Price-Prediction/assets/110754364/3b803992-958b-4013-89b4-4917d1fd877f)
+<h2>out of which random forests score is more that is 98%</h2>
+
+# result
+
+![image](https://github.com/Sanketarali/Gold-Price-Prediction/assets/110754364/30027835-9ea2-4b2b-9121-55ca2292b066)
+
 
 
 
