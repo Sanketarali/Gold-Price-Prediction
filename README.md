@@ -28,3 +28,20 @@ joblib<br>
 import numpy as np<br>
 import pandas as pd<br>
 import seaborn as sns<br>
+
+![image](https://github.com/Sanketarali/Gold-Price-Prediction/assets/110754364/2b02c8d6-9dea-4433-a43d-6b735050f2ce)
+![image](https://github.com/Sanketarali/Gold-Price-Prediction/assets/110754364/e298d15b-d880-4e41-9fa8-b59721e73a55)
+
+<h2>Now before moving forward, let’s have a look at whether this dataset contains any null values or not:</h2>
+
+![image](https://github.com/Sanketarali/Gold-Price-Prediction/assets/110754364/6ff87214-7789-4283-b113-a0a9921247d7)
+
+<h2>The dataset is ready to use because there are no null values in the data.</h2>
+
+
+
+
+
+
+
+
